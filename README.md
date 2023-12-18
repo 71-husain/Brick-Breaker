@@ -1,2 +1,3 @@
 # Brick-Breaker
-this is my repository
+this is my repository.
+Author-Husain Ansari
